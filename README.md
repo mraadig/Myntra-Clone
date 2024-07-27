@@ -1,7 +1,5 @@
 # Myntra-Clone
 
-# Myntra Clone
-
 This is a web-based clone of the Myntra e-commerce website, built using HTML, CSS, and JavaScript. The project includes functionality to add and remove items from the shopping cart using JavaScript.
 
 ## Table of Contents
